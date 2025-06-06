@@ -56,7 +56,7 @@
       <li>Cooking</li>
       <li>Leadership</li>
       <li>Organization</li>
-      <li>Collaborition</li>
+      <li>Collaboration</li>
     </ul>
   </div>
 
