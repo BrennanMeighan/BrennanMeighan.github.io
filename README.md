@@ -46,6 +46,8 @@
     </ul>
   </div>
 
+  <img src="hiking.jpg" alt="Description" style="width: 252px; height: 189px; margin-right: 15px"/>
+
   <div>
     <h3>Personal Skills</h3>
     <ul>
