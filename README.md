@@ -13,21 +13,21 @@
 ------  
 
 ### University of Washington
-> Major: Computer Science  
-> Minor: Music
-+ CSE 311 & 312
+> **Major:** Computer Science  
+> **Minor:** Music
++ **CSE 311 & 312**
     + Foundations of Computing I & II
-+ CSE 331
++ **CSE 331**
     + Software Design & Implementation
-+ CSE 332
++ **CSE 332**
     + Data Structures & Parallelism
-+ CSE 333
++ **CSE 333**
     + Systems Programming
-+ CSE 344
++ **CSE 344**
     + Introduction to Data Management
-+ CSE 351
++ **CSE 351**
     + The Hardware/Software Interface
-+ CSE 461
++ **CSE 461**
     + Introduction to Computer-Communication Networks
 
 ------
