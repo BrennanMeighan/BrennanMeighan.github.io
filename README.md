@@ -4,7 +4,7 @@
 
   <img src="headshot.jpg" alt="Description" style="width: 220px; margin-right: 15px"/>
 
-  <p style="font-size: 12px">
+  <p style="font-size: 18px">
     My name is Brennan Meighan. Currently, I am a third year student attending the University of Washington Paul G. Allen School of Computer Science. I consider myself to be a very passionate and dedicated person, and computer science is a great way to focus my energy and efforts into creating something interesting. I want to use what I've learned to help people and put good into the world, and that's what I plan on doing once I graduate.
   </p>
 
