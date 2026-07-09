@@ -95,7 +95,7 @@
 > I greet and welcome guests when they come in the door with conversation and a splash of wine, I seat said guests and organize who gets sat where and why, I take care of all the glasses used throughout the day, I help out the servers with whatever they need, I maintain a clean and efficient work environment, and I learn as much as I can from my coworkers every day.
 
 > #### Busser / Host
-> Piatti - Seattle, WA  
+> Piatti - Seattle, WA 
 > Autumn 2025 
 > I was almost always the sole busser and host for the entire 200-capacity restaurant each shift. Duties included bussing, cleaning, and resetting tables, seating and watering guests, assembling and running all bread orders, and generally assisting the wait and kitchen staff.
 
