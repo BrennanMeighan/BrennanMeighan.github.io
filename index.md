@@ -69,6 +69,8 @@
 
   <img src="hiking.jpg" alt="Description" style="width: 378px; height: 284px; margin-right: 15px"/>
 
+  <img src="food.jpg" alt="Description" style="width: 284px; height: 378px; margin-right: 15px"/>
+
   <div>
     <h3>Personal Skills</h3>
     <ul>
